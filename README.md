@@ -4,8 +4,7 @@
 - 🌱 Estudo AZ-900
 - 📫 Contate-me no e-mail: dri_verdi@hotmail.com
 - 😄 Pronouns: ela/dela
--->
-
+<br>
 
  <div>
   <a href="https://github.com/verdi77">
