@@ -5,7 +5,6 @@
 - 📫 Contate-me no e-mail: dri_verdi@hotmail.com
 - 😄 Pronouns: ela/dela
 <br>
-
  <div>
   <a href="https://github.com/verdi77">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=verdi77&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
@@ -30,9 +29,7 @@
   <a href = "https://mail.google.com/mail/u/0/?tab=rm#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adriana-gomes-verdi-9538801a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-.github/workflows/.github/workflows/cobrinha.yml
-![Snake animation](https://.github/workflows/.github/workflows/cobrinha.yml)
-
+![Snake animation](https://github.com/verdi77/verdi77/blob/output/github-contribution-grid-snake.svg)
 </div>
 
  
