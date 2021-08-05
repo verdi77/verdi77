@@ -21,7 +21,7 @@
   <img height="150em" align="right" alt="Dry" src="https://cdn.discordapp.com/attachments/851652610146435105/872265822591156304/download20210802201924.png">
  </div>
  
-  ##
+##
  
 <div> 
   <a href="https://instagram.com/adrianagomesverdi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
