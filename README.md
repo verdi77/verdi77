@@ -19,7 +19,7 @@
   <img align="center" alt="Dry-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dry-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Dry-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img height="90em" align="right" alt="Dry" src="https://cdn.discordapp.com/attachments/851652610146435105/877330520084717619/download20210802201924.png">
+  <img height="300em" align="right" alt="Dry" src="https://cdn.discordapp.com/attachments/851652610146435105/877330520084717619/download20210802201924.png">
  </div>
  
 ##
