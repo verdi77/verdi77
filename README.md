@@ -1,6 +1,6 @@
 ## Oii! Eu sou a Adriana Gomes Verdi - verdi77 
  
-- 🔭 Hoje trabalho com front end
+- 🔭 Hoje Product Owner
 - 🌱 Estudo AZ-900
 - 📫 Contate-me no e-mail: dri_verdi@hotmail.com
 - 😄 Pronouns: ela/dela
