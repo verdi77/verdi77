@@ -1,7 +1,7 @@
 ## Oii! Eu sou a Adriana Gomes Verdi - verdi77 
  
 - 🔭 Hoje Product Owner
-- 🌱 Estudo AZ-900
+- 🌱 Estudo AZ-400
 - 📫 Contate-me no e-mail: dri_verdi@hotmail.com
 - 😄 Pronouns: ela/dela
 <br>
